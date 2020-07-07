@@ -67,10 +67,9 @@ h3{
 @media (min-width: 992 px){
     .col-lg-1, .col-lg-2, .col-lg-3{
        
-        width: 25.66%;
+        width: 27.66%;
     }
 }
-
 .col-lg-1, .col-lg-2, .col-lg-3{
     float: left;
     width: 25.66%;
