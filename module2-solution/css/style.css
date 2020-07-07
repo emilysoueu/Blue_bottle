@@ -75,15 +75,15 @@ h3{
 
 @media (min-width: 768px) and (max-width: 991px){
     .col-md-1{
-        width: 28.33em;
+        width: 20.33em;
         float: left;
     }
     .col-md-2{
-        width: 28.33em;
+        width: 20.33em;
         float: right;
     }
     .col-md-3{
-        width: 60.66em;
+        width: 50.66em;
         float: left;
     }
  }
